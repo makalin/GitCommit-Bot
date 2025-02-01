@@ -13,8 +13,8 @@ Git Commit Bot is a tool that automates the generation of concise and descriptiv
 
 1. Clone this repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/makalin/GitCommit-Bot.git
+   cd GitCommit-Bot
    ```
 
 2. Install dependencies:
